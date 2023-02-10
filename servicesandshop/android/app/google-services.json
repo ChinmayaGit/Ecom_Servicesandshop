@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "785195453470",
+    "firebase_url": "https://serviceandshop-3219a.firebaseio.com",
+    "project_id": "serviceandshop-3219a",
+    "storage_bucket": "serviceandshop-3219a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785195453470:android:faf98b4e9845c22791720f",
+        "android_client_info": {
+          "package_name": "com.chinu.servicesandshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785195453470-p1t0fojbhsvca5v0ig2108r2svk1snpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chinu.servicesandshop",
+            "certificate_hash": "f71a0bd42fafd6a147ecb372d3b314e55eed26ad"
+          }
+        },
+        {
+          "client_id": "785195453470-dm0nhhj28vjpa4o3bdg8nbajjtr1rk7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3E8juREO2iNvY2dlRFIdZskTban-iCCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785195453470-dm0nhhj28vjpa4o3bdg8nbajjtr1rk7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
